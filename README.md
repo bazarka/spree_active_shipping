@@ -45,6 +45,7 @@ $ bundle
 ```
 
 Rate quotes from carriers
+
 ---
 
 So far, this gem supports getting quotes from UPS, USPS, Canada Post, and FedEx. In general, you will need a developer account to get rates. Please contact the shipping vendor that you wish to use about generating a developer account.
